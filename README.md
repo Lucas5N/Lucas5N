@@ -31,15 +31,10 @@
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lucas5N&theme=github)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
-## Contributions 
-<p align="center">
-  <img src="https://github.com/Lucas5N/Lucas5N/blob/main/assets/github-contribution-grid-snake.svg" />
-</p>
-
-
----
 
 ## Tech Stack
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Assembly](https://img.shields.io/badge/Assembly-6E4B3A?style=for-the-badge&logo=assembly&logoColor=white) -> <p><b> the very basics</b><p>
+

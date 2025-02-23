@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/your-image.png" width="200"/>
+  <img src="https://i.imgur.com/tLH9dva.png" width="200"/>
 </p>
 
 <h1 align="center">Hi there! I'm Lucas5N 👋</h1>
@@ -31,10 +31,11 @@
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lucas5N&theme=github)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 ---
-## Contributions
+## Contributions 
 <p align="center">
-  <img src="https://github.com/Lucas5N/Lucas5N/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/Lucas5N/Lucas5N/blob/main/assets/github-contribution-grid-snake.svg" />
 </p>
+
 
 ---
 

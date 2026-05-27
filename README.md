@@ -15,12 +15,11 @@
 ---
 
 ## Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lucas5N&theme=green&show_icons=true" height="190"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucas5N&show_icons=true&theme=green" height="190"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas5N&layout=compact&theme=green" height="190"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lucas5N&theme=green" height="190"/>
-</p>   
+</p>
 
 ---
 

@@ -2,18 +2,14 @@
   <img src="https://i.imgur.com/tLH9dva.png" width="200"/>
 </p>
 
-<h1 align="center">Hi there! I'm Lucas5N 👋</h1>
+<h1 align="center">Hi there! I'm Luca 👋</h1>
 
 <p align="center">
-  🎓 Computer Science Student at University of Salerno (IT)  |  💻 Passionate about Software Development
+  🎓 Computer Science Student at University of Salerno (IT)
 </p>
 
 ---
 
-## About Me
-- 👀 I’m interested in **Computer Science, AI, and Software Engineering**
-- 🌱 Currently learning **CS at UNISA**
-- 💞️ Open to collaborating on **exciting projects**
 - 📫 Reach me at **[lucastaiano314@gmail.com](mailto:lucastaiano314@gmail.com)**
 
 ---

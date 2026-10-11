@@ -11,31 +11,6 @@
 ---
 
 - 📫 Reach me at **[lucastaiano314@gmail.com](mailto:lucastaiano314@gmail.com)**
-
----
-
-## Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Lucas5N&show_icons=true&theme=merko"
-    height="180"
-    alt="GitHub Stats"
-  />
-
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas5N&layout=compact&theme=merko"
-    height="180"
-    alt="Top Languages"
-  />
-
-  <img
-    src="https://streak-stats.demolab.com/?user=Lucas5N&theme=merko"
-    height="180"
-    alt="GitHub Streak"
-  />
-</p>
-
 ---
 
 ## My Contributions

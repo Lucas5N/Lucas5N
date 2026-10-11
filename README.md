@@ -5,7 +5,7 @@
 <h1 align="center">Hi there! I'm Luca 👋</h1>
 
 <p align="center">
-  🎓 BSc in Computer Science from University of Salerno (UniSA), now pursuing an MSc in Cybersecurity at SAPIENZA Università di Roma.
+  🎓 BSc in Computer Science, now pursuing an MSc in Cybersecurity at the University of Salerno (IT)
 </p>
 
 ---
@@ -14,11 +14,48 @@
 
 ---
 
+## Stats
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Lucas5N&show_icons=true&theme=merko"
+    height="180"
+    alt="GitHub Stats"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas5N&layout=compact&theme=merko"
+    height="180"
+    alt="Top Languages"
+  />
+
+  <img
+    src="https://streak-stats.demolab.com/?user=Lucas5N&theme=merko"
+    height="180"
+    alt="GitHub Streak"
+  />
+</p>
+
 ---
 
-## My Activity
+## My Contributions
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Lucas5N&theme=github-compact)](https://github.com/bhoopeshrk/github-readme-activity-graph)
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/Lucas5N/Lucas5N/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/Lucas5N/Lucas5N/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake"
+      src="https://raw.githubusercontent.com/Lucas5N/Lucas5N/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
 
 ---
 

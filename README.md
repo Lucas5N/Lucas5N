@@ -13,27 +13,6 @@
 - 📫 Reach me at **[lucastaiano314@gmail.com](mailto:lucastaiano314@gmail.com)**
 ---
 
-## My Contributions
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/Lucas5N/Lucas5N/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/Lucas5N/Lucas5N/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      alt="GitHub contribution snake"
-      src="https://raw.githubusercontent.com/Lucas5N/Lucas5N/output/github-contribution-grid-snake.svg"
-    />
-  </picture>
-</p>
-
----
-
 ## Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)

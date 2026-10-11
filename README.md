@@ -5,7 +5,7 @@
 <h1 align="center">Hi there! I'm Luca 👋</h1>
 
 <p align="center">
-  🎓 BSc in Computer Science, now pursuing an MSc in Cybersecurity at the University of Salerno (IT)
+  🎓 BSc in Computer Science from Università degli Studi di Salerno (UNISA), now pursuing an MSc in Cybersecurity at SAPIENZA Università di Roma.
 </p>
 
 ---
